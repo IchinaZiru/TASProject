@@ -1,0 +1,66 @@
+sv_consistency 0
+
+OpenSafeRoomDoor();
+
+SendToConsole("Give pain_pills francis");
+SendToConsole("Give molotov francis");
+hPlayer.SetHealthBuffer(46.678);
+	
+	SendToConsole("st_mr_record 1");
+    Convars.SetValue("st_mr_force_file", "c13m1test_ellis");
+    Convars.SetValue("st_mr_play", hPlayer.GetEntityIndex())
+    
+		EntFire("worldspawn", "RunScriptCode", "ClientCommand(Ent(\"!nick\"), \"sm_idle\");", 0.0);
+		else if (sName == "trigger_area1" && activator == Ent("!nick"))
+        EntFire("worldspawn", "RunScriptCode", "ClientCommand(Ent(\"!nick\"), \"sm_take 3\");", 0.0);
+        EntFire("worldspawn", "RunScriptCode", "ST_Idle(GetOwner(Ent(\"!nick\")), true)", 0.033);
+        ST_Take, 1(Ent("!coach")); 
+		ST_Idle(Ent("!nick"));
+		
+SetClientName(Ent("!nick"), "Sw1ft");
+SetClientName(Ent("!rochelle"), "bad player");
+SetClientName(Ent("!coach"), "Kyubi");
+                                                              && activator == Ent("!francis")
+SetAmmo(hPlayer, 1, 14, 0);
+hPlayer.GiveUpgrade(1);
+
+RemoveItemEx(Vector(-7879.000, 5378.000, 15.344), 10);
+, Vector(10, 10, 10), Vector()
+ 
+ SendToServerConsole("callvote changedifficulty Easy");
+ SendToServerConsole("sm_voteall");
+ EntFire("worldspawn", "RunScriptCode", "ClientCommand(Ent(\"!rochelle\"), \"callvote changedifficulty Easy\");", 0.000);
+ EntFire("worldspawn", "RunScriptCode", "ClientCommand(Ent(\"!rochelle\"), \"sm_voteall\");", 12.550);
+ 
+ST_Idle(Ent("!nick"));
+EntFire("worldspawn", "RunScriptCode", "ClientCommand(Ent(\"!rochelle\"), \"sm_idle\");", 3.167);
+EntFire("worldspawn", "RunScriptCode", "ST_Idle(GetOwner(Ent(\"!rochelle\")), true)", 0.033);
+EntFire("worldspawn", "RunScriptCode", format("ClientCommand(Ent(\"!louis\"), \"sm_take 2\")"), 6.2);
+ScriptedTP("!louis", "!francis", 6.1);
+ScriptedTP(Ent("!bill").GetEntityIndex(),Ent("!zoey").GetEntityIndex(),6.1);
+AutoKick( Ent("!nick"), Ent("!rochelle"));
+ 
+ SpawnCommonForCB(Vector(8587.934, 7858.009, -539.926), QAngle(0.000, 0.000, 0.000));
+ AddScriptedTankSpawn(Vector(-6208.461, 6261.686, 308.031));
+
+
+ director_must_create_all_scavenge_items 0 
+ 
+ director_scavenge_item_override 0
+ 
+ ent_remove_all infected
+ RemoveItemByName("pistol");
+
+ SendToServerConsole("ent_remove_all infected");
+
+ SendToServerConsole("z_allow_ai_to_use_abilities 0");
+
+ sv_infected_ceda_vomitjar_probability 0.1
+ st_edgebug_height 680.0
+
+ 
+ST_MR(hPlayer, true, "nick");
+		SendToConsole("st_mr_record 1");
+        Convars.SetValue("st_mr_force_file", "nick");
+		Convars.SetValue("st_mr_play", Ent("!nick").GetEntityIndex())
+

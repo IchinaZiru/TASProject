@@ -1,0 +1,87 @@
+Detail ch
+timer 15
+ 
+===================== Summary ======================
+Map       : ch_map1_city
+Difficulty: Impossible
+Players   : 4
+================= Player Inventory =================
+Survivor  : Ellis (月白瞳美は俺の妻)
+Health    : 100
+slot1     : weapon_pumpshotgun (8/72)
+slot2     : weapon_pistol (15)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+slot5     : weapon_adrenaline
+Vector(3112.363, 9326.912, -1496.069), QAngle(0.079, -59.013, 0.000));
+----------------------------------------------------
+Survivor  : Rochelle (so-so)
+Health    : 100
+slot1     : weapon_shotgun_chrome (8/72)
+slot2     : weapon_pistol (15)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+Vector(3026.704, 9295.822, -1496.069), QAngle(0.000, -146.530, 0.000)); 
+----------------------------------------------------
+Vector(3087.713, 9400.822, -1499.161), QAngle(1.814, -121.701, 0.000));nick
+Vector(3132.258, 9418.276, -1499.161), QAngle(0.000, -118.147, 0.000));coach
+
+Console: Segment time: 90.467 (01:30,467)
+===================== Summary ======================
+Map       : ch_map2_temple
+Difficulty: Impossible
+Players   : 4
+================= Player Inventory =================
+Survivor  : Ellis (so-so)
+Health    : 93
+HealthTemp: 2.194
+slot1     : weapon_pumpshotgun (8/72)
+slot2     : weapon_pistol (30)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+Vector(6217.123, 8014.132, -191.969), QAngle(0.237, 93.983, 0.000));
+----------------------------------------------------
+Survivor  : Rochelle (jux)
+Health    : 100
+slot1     : weapon_shotgun_chrome (8/67)
+slot2     : weapon_pistol (30)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+Vector(6224.531, 7895.230, -191.969), QAngle(0.000, 89.088, 0.000));
+----------------------------------------------------
+Vector(6324.065, 7857.360, -191.969), QAngle(0.867, 116.137, 0.000)); coach
+Vector(6332.136, 7897.313, -191.969), QAngle(13.641, 94.309, 0.000));nick
+
+Console: Segment time: 90.467 (01:30,467)
+===================== Summary ======================
+Map       : ch_map2_temple
+Difficulty: Impossible
+Players   : 4
+================= Player Inventory =================
+Survivor  : Rochelle (jux)
+Health    : 100
+slot1     : weapon_shotgun_chrome (8/67)
+slot2     : weapon_pistol (30)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+----------------------------------------------------
+Survivor  : Ellis (so-so)
+Health    : 93
+HealthTemp: 2.193
+slot1     : weapon_pumpshotgun (8/72)
+slot2     : weapon_pistol (30)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+setang_exact -10.171520 24.904676 0.000000" nick  "setang_exact -16.463013 24.411621 0.000000"
+
+"setang_exact -38.034668 14.489626 0.000000"cpach   setang_exact -74.246292 13.172945 0.000000  
+"f" = "setang_exact -77.399597 12.936064 0.000000"
+
+
+
+"f" = "setang_exact -17.962646 -165.245361 0.000000"ellis
+
+
+"f" = "setang_exact -77.073212 13.319317 0.000000" coach 
+"f" = "setang_exact -42.654419 20.379639 0.000000" new
+

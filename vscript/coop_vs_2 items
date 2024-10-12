@@ -1,0 +1,266 @@
+
+timer 20
+coop vs_1 summary
+Console: Segment time: 47.934
+===================== Summary ======================
+Map       : campanar_coop_vs
+Difficulty: Easy
+Players   : 3
+================= Player Inventory =================
+Survivor  : Louis (2)
+Health    : 74
+slot1     : weapon_smg_silenced (50/650)
+slot2     : weapon_pistol_magnum (8)
+slot4     : weapon_first_aid_kit
+----------------------------------------------------
+Survivor  : Bill (ICHINA)
+Health    : 100
+slot1     : weapon_smg_silenced (50/650)
+slot2     : weapon_pistol_magnum (8)
+slot4     : weapon_first_aid_kit
+----------------------------------------------------
+Survivor  : Zoey (4)
+Health    : 100
+slot1     : weapon_smg_silenced (50/650)
+slot2     : weapon_pistol_magnum (6)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+----------------------------------------------------
+
+
+Console: Segment time: 48.000
+===================== Summary ======================
+Map       : campanar_coop_vs
+Difficulty: Easy
+Players   : 3
+================= Player Inventory =================
+Survivor  : Bill (ICHIIINA)
+Health    : 100
+slot1     : weapon_smg_silenced (50/650)
+slot2     : weapon_pistol_magnum (8)
+slot4     : weapon_first_aid_kit
+Vector(10046.373, 9044.616, 72.031), QAngle(5.299, 117.291, 0.000)
+----------------------------------------------------
+Survivor  : Louis (ICHIIIINA)
+Health    : 74
+slot1     : weapon_smg_silenced (50/650)
+slot2     : weapon_pistol_magnum (8)
+slot4     : weapon_first_aid_kit
+Vector(9957.872, 9138.598, 72.031), QAngle(-1.308, 78.017, 0.000)
+----------------------------------------------------
+Survivor  : Zoey (ICHIINA)
+Health    : 100
+slot1     : weapon_smg_silenced (50/650)
+slot2     : weapon_pistol_magnum (6)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+Vector(10105.425, 9011.621, 72.031), QAngle(2.477, 152.512, 0.000)
+----------------------------------------------------
+francis
+Vector(9952.396, 9094.545, 72.031), QAngle(2.959, 88.178, 0.000)
+
+(hPlayer, Vector(10105.425, 9011.621, 72.031), QAngle(2.477, 152.512, 0.000));
+ICHINA :  !dbg tp
+Console: TP (hPlayer, Vector(10046.373, 9044.616, 72.031), QAngle(5.299, 117.291, 0.000));
+ICHINA :  !dbg tp
+Console: TP (hPlayer, Vector(9952.396, 9094.545, 72.031), QAngle(2.959, 88.178, 0.000));
+ICHINA :  !dbg tp
+Console: TP (hPlayer, Vector(9957.872, 9138.598, 72.031), QAngle(-1.308, 78.017, 0.000));
+
+Console: Segment time: 48.000
+===================== Summary ======================
+Map       : campanar_coop_vs
+Difficulty: Easy
+Players   : 3
+================= Player Inventory =================
+Survivor  : Zoey (ICHIINA)
+Health    : 91
+slot1     : weapon_smg_silenced (50/650)
+slot2     : weapon_pistol_magnum (6)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+----------------------------------------------------
+Survivor  : Louis (ICHIIIINA)
+Health    : 61
+slot1     : weapon_smg_silenced (50/650)
+slot2     : weapon_pistol_magnum (8)
+slot4     : weapon_first_aid_kit
+----------------------------------------------------
+Survivor  : Bill (ICHIIINA)
+Health    : 61
+slot1     : weapon_smg_silenced (50/650)
+slot2     : weapon_pistol_magnum (8)
+slot4     : weapon_first_aid_kit
+----------------------------------------------------
+
+Console: Segment time: 48.000
+===================== Summary ======================
+Map       : campanar_coop_vs
+Difficulty: Easy
+Players   : 3
+================= Player Inventory =================
+Survivor  : Bill (萌新野生菌)
+Health    : 100
+slot1     : weapon_smg_silenced (50/650)
+slot2     : weapon_pistol_magnum (8)
+slot4     : weapon_first_aid_kit
+----------------------------------------------------
+Survivor  : Louis (名字改Frenzy)
+Health    : 92
+slot1     : weapon_smg_silenced (50/650)
+slot2     : weapon_pistol_magnum (8)
+slot4     : weapon_first_aid_kit
+----------------------------------------------------
+Survivor  : Zoey (ICHINA)
+Health    : 100
+slot1     : weapon_smg_silenced (50/650)
+slot2     : weapon_pistol_magnum (6)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+----------------------------------------------------
+
+
+================= Player Inventory =================
+Survivor  : Louis (名字改Frenzy)
+Health    : 94
+slot1     : weapon_smg_silenced (50/650)
+slot2     : weapon_pistol_magnum (8)
+----------------------------------------------------
+Survivor  : Bill (萌新野生菌)
+Health    : 100
+slot1     : weapon_smg_silenced (50/650)
+slot2     : weapon_pistol_magnum (8)
+slot4     : weapon_first_aid_kit
+----------------------------------------------------
+Survivor  : Zoey (ICHINA)
+Health    : 61
+slot1     : weapon_smg_silenced (50/650)
+slot2     : weapon_pistol_magnum (4)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+----------------------------------------------------
+Console: Segment time: 48.133
+
+
+SpawnItem("pipe_bomb", Vector(8397.000, 11012.000, 69.901), QAngle(0.000, 0.000, 0.000), 1);
+Console: Player ICHINA fdmg 0.0
+ICHINA :  !pick
+Console: Function :
+SpawnItem("vomitjar", Vector(7777.000, 7934.000, 108.696), QAngle(0.000, 0.000, 0.000), 1);
+ICHINA :  !pick
+Console: Function :
+SpawnItem("molotov", Vector(7190.000, 7461.000, 121.136), QAngle(0.000, 0.000, 0.000), 1);
+ICHINA :  !pick
+Console: Function :
+SpawnItem("molotov", Vector(7300.000, 7411.000, 121.136), QAngle(0.000, 0.000, 0.000), 1);
+ICHINA :  !pick
+Console: Function :
+SpawnItem("pipe_bomb", Vector(7405.000, 7009.000, 76.901), QAngle(0.000, 0.000, 0.000), 1);
+ICHINA :  !pick
+Console: Function :
+SpawnItem("molotov", Vector(8304.000, 5092.000, 69.792), QAngle(0.000, 0.000, 0.000), 1);
+ICHINA :  !pick
+Console: Function :
+SpawnItem("grenade_launcher", Vector(7664.000, 5782.000, 74.139), QAngle(0.000, 0.000, 0.000), 1);
+
+Louis
+setang_exact -15.529175 -167.266846 0.000000 -> 28.533
+"setang_exact -20.523682 -167.261353 0.000000"
+ bind f"setang_exact -30.514526 -167.255859 0.000000" latest
+francis
+setang_exact -81.166992 13.436279 0.000000 -> 28.733
+bind f "setang_exact -56.000000 15.363132 0.000000" latest
+"setang_exact -89.000000 20.789810 0.000000"
+walk 27.733 throw .233 jump .333
+
+Bill
+ "setang_exact -29.625854 14.941406 0.000000"
+ jump 28.367
+
+
+
+Console: Total time: 84.000 (01:23,000)
+Console: Segment time: 35.867
+===================== Summary ======================
+Map       : alboraya_coop_vs
+Difficulty: Easy
+Players   : 2
+================= Player Inventory =================
+Survivor  : Zoey (2)
+Health    : 60
+slot1     : weapon_smg_silenced (48/650)
+slot2     : weapon_pistol_magnum (8)
+slot4     : weapon_first_aid_kit
+
+Console: TP (hPlayer, Vector(-3032.641, -3416.480, -1551.969), QAngle(6.331, 100.892, 0.000));
+----------------------------------------------------
+Survivor  : Louis (3)
+Health    : 94
+slot1     : weapon_grenade_launcher (1/29)
+slot2     : weapon_pistol_magnum (8)
+slot3     : weapon_molotov
+
+Console: TP (hPlayer, Vector(-3027.982, -3261.866, -1551.969), QAngle(11.974, 125.037, 0.000));
+----------------------------------------------------
+farncis (hPlayer, Vector(-3022.362, -3351.751, -1551.969), QAngle(6.193, 109.559, 0.000));
+bill  (hPlayer, Vector(-3098.584, -3295.198, -1551.969), QAngle(7.570, 61.173, 0.000));
+
+current map:alboraya_coop_vs
+next map:cullera_coop_vs
+bill:happyskillch
+louis:ICHINA
+zoeynoobs_gang
+francis:サムライサム
+
+cp3
+
+SpawnItem("vomitjar", Vector(-4628.000, -3630.000, -1548.772), QAngle(0.000, 0.000, 0.000), 1);
+2 :  !pick
+Console: Function :
+SpawnItem("grenade_launcher", Vector(-7424.000, 332.000, -1551.830), QAngle(0.000, 0.000, 0.000), 1);
+
+
+//saferoom
+
+SpawnItem("sniper_military", Vector(-3115.031, -3413.031, -1521.625), QAngle(358.945, 74.531, 90.747), 5);
+//屋上
+
+
+SpawnItem("ammo", Vector(-4443.000, -3752.000, 844.000), QAngle(0.000, 0.000, 0.000), 1);
+//ammo に近いほう
+SpawnItem("sniper_military", Vector(-4435.969, -3706.031, 845.438), QAngle(358.989, 203.862, 90.879), 5);
+//ammoから遠いほう
+SpawnItem("shotgun_spas", Vector(-4447.969, -3661.938, 845.469), QAngle(0.000, 305.815, 90.000), 5);
+SpawnItem("sniper_military", Vector(-4447.688, -3660.594, 845.438), QAngle(359.341, 305.244, 90.264), 5);
+SpawnItem("hunting_rifle", Vector(-4448.000, -3662.000, 845.031), QAngle(0.571, 305.991, 90.132), 5);
+
+SpawnItem("gascan_scavenge", Vector(-4090.219, -3104.656, 854.906), QAngle(358.989, 0.000, 359.561), -1);
+
+SpawnItem("molotov", Vector(-4471.000, -3935.000, 849.167), QAngle(0.000, 320.977, 0.000), 1);
+SpawnItem("molotov", Vector(-4452.000, -3935.000, 849.167), QAngle(0.000, 0.000, 0.000), 1);
+SpawnItem("molotov", Vector(-4446.000, -3908.000, 849.167), QAngle(0.000, 0.000, 0.000), 1);
+SpawnItem("molotov", Vector(-4470.000, -3910.000, 849.167), QAngle(0.000, 0.000, 0.000), 1);
+//屋上の1つ下の階
+
+SpawnItem("gascan_scavenge", Vector(-3762.125, -3541.438, 698.938), QAngle(359.517, 360.000, 359.780), -1);
+
+//屋上の2つ下の階
+
+//屋上の3つ下の階
+
+//屋上の4つ下の階
+//左側
+SpawnItem("ammo", Vector(-2923.000, -3862.000, 220.000), QAngle(0.000, 0.000, 0.000), 1);
+SpawnItem("gascan_scavenge", Vector(-3344.094, -3899.531, 230.938), QAngle(359.604, 360.000, 359.824), -1);
+SpawnItem("sniper_military", Vector(-2947.469, -3901.500, 221.531), QAngle(358.901, 122.036, 91.055), 5);
+//右側
+SpawnItem("sniper_military", Vector(-4447.688, -3660.594, 845.438), QAngle(359.341, 305.244, 90.264), 5);
+
+bill 28.633
+louis 28.733
+francis walk 27.700 throw 28.233 jump 28.400
+
+latest
+bill 24.933
+louis 25.033 setang_exact -18.484497 159.537964 0.000000
+francis walk 24.067 throw 23.933 jump 24.600 setang_exact -45.994751 -29.503784 0.000000"

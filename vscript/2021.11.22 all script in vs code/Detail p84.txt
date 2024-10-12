@@ -1,0 +1,152 @@
+Detail p84
+
+Console: Segment time: 31.000 
+===================== Summary ======================
+Map       : p84m1_apartment
+Difficulty: Impossible
+Players   : 4
+================= Player Inventory =================
+Survivor  : Bill (so-so)
+Health    : 88
+slot2     : weapon_pistol (15)
+slot3     : weapon_molotov
+slot5     : weapon_adrenaline
+Vector(524.433, -144.826, -71.969), QAngle(0.631, -81.799, 0.000));
+----------------------------------------------------
+Survivor  : Francis (2)
+Health    : 60
+slot2     : weapon_pistol (15)
+slot4     : weapon_first_aid_kit
+ Vector(564.331, -99.118, -71.969), QAngle(1.814, -81.754, 0.000));
+----------------------------------------------------
+Survivor  : Zoey (3)
+Health    : 100
+slot2     : weapon_pistol (15)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+Vector(535.694, -111.221, -71.969), QAngle(2.838, -77.733, 0.000));
+----------------------------------------------------
+Survivor  : Louis (4)
+Health    : 100
+slot1     : weapon_shotgun_chrome (8/72)
+slot2     : weapon_pistol (15)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+slot5     : weapon_pain_pills
+Vector(498.035, -123.481, -71.969), QAngle(2.444, -73.890, 0.000));
+----------------------------------------------------
+===================== Summary ======================
+Map       : p84m1_apartment
+Difficulty: Impossible
+Players   : 4
+================= Player Inventory =================
+Survivor  : Francis (IcyFrost)
+Health    : 60
+slot2     : weapon_pistol (15)
+slot4     : weapon_first_aid_kit
+----------------------------------------------------
+Survivor  : Bill (夏目貴志)
+Health    : 88
+slot2     : weapon_pistol (15)
+slot3     : weapon_molotov
+slot5     : weapon_adrenaline
+----------------------------------------------------
+Survivor  : Louis (Kyubi ツ)
+Health    : 100
+slot1     : weapon_shotgun_chrome (8/72)
+slot2     : weapon_pistol (15)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+slot5     : weapon_pain_pills
+----------------------------------------------------
+Survivor  : Zoey (Juxar)
+Health    : 100
+slot2     : weapon_pistol (15)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+----------------------------------------------------
+" = "setang_exact -49.580818 81.143669 0.000000"
+
+ = "setang_exact -42.577740 -39.613152 0.000000" francis
+ Console: Total time: 78.667 (01:18,667)
+Console: Segment time: 47.667 
+===================== Summary ======================
+Map       : p84m2_eltrain
+Difficulty: Impossible
+Players   : 4
+================= Player Inventory =================
+Survivor  : Bill ((1)2)
+Health    : 88
+slot2     : weapon_pistol (15)
+slot3     : weapon_molotov
+slot4     : weapon_defibrillator
+slot5     : weapon_adrenaline
+Console: TP (hPlayer, Vector(7045.709, 148.368, 64.031), QAngle(0.000, -159.694, 0.000));
+----------------------------------------------------
+Survivor  : Louis (2)
+Health    : 99
+slot1     : weapon_grenade_launcher (1/29)
+slot2     : weapon_pistol (15)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+slot5     : weapon_adrenaline
+Extra     : weapon_gascan
+Console: TP (hPlayer, Vector(7012.113, 225.983, 64.031), QAngle(-0.710, -144.958, 0.000));
+----------------------------------------------------
+
+===================== Summary ======================
+Map       : p84m2_eltrain
+Difficulty: Impossible (Easy)
+Players   : 4
+================= Player Inventory =================
+Survivor  : Louis (so-so)
+Health    : 99
+slot1     : weapon_grenade_launcher (1/29)
+slot2     : weapon_pistol (15)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+slot5     : weapon_adrenaline
+Extra     : weapon_gascan
+ (hPlayer, Vector(7010.083, 215.906, 64.031), QAngle(-1.814, -175.034, 0.000));
+----------------------------------------------------
+Survivor  : Bill (Reimu)
+Health    : 88
+slot2     : weapon_pistol (15)
+slot3     : weapon_molotov
+slot4     : weapon_defibrillator
+slot5     : weapon_adrenaline
+----------------------------------------------------
+= "setang_exact -9.540605 -1.784894 0.000000"
+
+
+Console: Total time: 148.267 (02:28,267)
+Console: Segment time: 69.600 (01:09,600)
+===================== Summary ======================
+Map       : p84m3_tunnel
+Difficulty: Impossible
+Players   : 4
+================= Player Inventory =================
+Survivor  : Francis (so-so)
+Health    : 89
+slot1     : weapon_grenade_launcher (0/27)
+slot2     : weapon_pistol (14)
+slot3     : weapon_vomitjar
+Vector(-12.742, 56.361, 3.031), QAngle(3.548, -103.932, 0.000));
+----------------------------------------------------
+Survivor  : Bill (おかゆさん)
+Health    : 88
+slot2     : weapon_pistol (15)
+slot4     : weapon_defibrillator
+slot5     : weapon_pain_pills
+Vector(-19.372, 109.332, 3.031), QAngle(2.602, -102.039, 0.000));
+----------------------------------------------------
+Survivor  : Louis (小鼻鼻)
+Health    : 99
+slot1     : weapon_grenade_launcher (1/27)
+slot2     : weapon_pistol (15)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+slot5     : weapon_adrenaline
+Vector(21.581, 87.690, 3.031), QAngle(2.050, -115.444, 0.000));
+----------------------------------------------------
+Vector(-88.995, -26.938, 3.031), QAngle(5.914, -70.263, 0.000));

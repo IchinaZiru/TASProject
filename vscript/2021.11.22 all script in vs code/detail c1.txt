@@ -1,0 +1,44 @@
+detail c1
+
+Console: Segment time: 8.667 
+===================== Summary ======================
+Map       : c1m1_hotel
+Difficulty: Easy
+Players   : 2
+================= Player Inventory =================
+Survivor  : ellis (cute retard)
+Health    : 100
+slot2     : weapon_pistol (15)
+slot3     : weapon_vomitjar
+Origin    : Vector(2268.653, 5186.114, 496.552)
+----------------------------------------------------
+setpos_exact -3920.031250 2551.968750 64.031250;setang_exact 4.012782 -123.166939 0.000000  idle
+
+setpos_exact -5039.968750 1040.031250 832.031250;setang_exact -9.279585 1.812099 0.000000 trick
+
+
+
+Console: Total time: 74.367 (01:14,367)
+Console: Segment time: 65.700 (01:05,700)
+===================== Summary ======================
+Map       : c1m2_streets
+Difficulty: Easy
+Players   : 2
+================= Player Inventory =================
+Survivor  : Nick (おかゆさん)
+Health    : 50
+HealthTemp: 14.398
+slot1     : weapon_grenade_launcher (1/28)
+slot2     : weapon_pistol (15)
+slot3     : weapon_molotov
+slot4     : weapon_upgradepack_explosive
+Origin    : Vector(6797.750, -1510.635, 81.074)
+----------------------------------------------------
+Survivor  : Ellis (so-so)
+Health    : 82
+slot2     : weapon_pistol (15)
+slot5     : weapon_pain_pills
+Origin    : Vector(6769.149, -1413.406, 61.869)
+----------------------------------------------------
+Vector(6769.150, -1413.406, 24.031), QAngle(3.627, 115.765, 0.000)); ellis
+Vector(6801.938, -1505.969, 24.031), QAngle(11.669, -64.844, 0.000)); nick

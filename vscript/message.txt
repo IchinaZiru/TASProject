@@ -1,0 +1,49 @@
+function FinaleScript()
+{
+	//Custom Zombie Spawns For Finale Maps! OBS: only works on MAIN CAMPAIGNS FROM VALVE = L4D2 + L4D1 + TLS MAP
+	// SHOW POINTS
+	//script foreach (point in FinaleManager.CalculatePointsWithinCircle(Vector(-822.087, 4453.957, 441.966, 40.0, RandomInt(19, 19)) ) Mark(point);
+	//linear
+	//script foreach (point in FinaleManager.CalculatePointsByLinearDirection(Vector(167.971, 2130.563, 123.092),Vector(143.853, 1874.460, 137.250),  RandomInt(7, 10), -40, 20 )  Mark(point);
+	local aPanicOne = [];
+
+	//Spot 1
+	aPanicOne.extend( FinaleManager.CalculatePointsWithinCircle(Vector(), 50.0, RandomInt(19, 19)) );
+	aPanicOne.extend( FinaleManager.CalculatePointsWithinCircle(Vector(), 50.0, RandomInt(19, 19)) );
+
+	//Spot 2
+	aPanicOne.extend( FinaleManager.CalculatePointsWithinCircle(Vector(), 50.0, RandomInt(19, 19)) );
+	aPanicOne.extend( FinaleManager.CalculatePointsWithinCircle(Vector(), 50.0, RandomInt(19, 19)) );
+
+	local aPauseOne = [];
+
+	//Spot 3
+	aPauseOne.extend( FinaleManager.CalculatePointsWithinCircle(Vector(), 50.0, RandomInt(19, 19)) );
+	aPauseOne.extend( FinaleManager.CalculatePointsWithinCircle(Vector(), 50.0, RandomInt(19, 19)) );
+
+	local aPanicTwo = [];
+
+	//Spot 4
+	aPanicTwo.extend( FinaleManager.CalculatePointsByLinearDirection(Vector(),Vector(),  RandomInt(7, 7), -40, 20 ) );
+	aPanicTwo.extend( FinaleManager.CalculatePointsByLinearDirection(Vector(),Vector(),  RandomInt(7, 7), -40, 20 ) );
+
+	//Spot 5
+	aPanicTwo.extend( FinaleManager.CalculatePointsByLinearDirection(Vector(),Vector(),  RandomInt(7, 7), -40, 20 ) );
+	aPanicTwo.extend( FinaleManager.CalculatePointsByLinearDirection(Vector(),Vector(),  RandomInt(7, 7), -40, 20 ) );
+
+	local aPauseTwo = [];
+
+	//Spot 6
+	aPauseTwo.extend( FinaleManager.CalculatePointsWithinCircle(Vector(), 50.0, RandomInt(19, 19)) );
+	aPauseTwo.extend( FinaleManager.CalculatePointsWithinCircle(Vector(), 50.0, RandomInt(19, 19)) );
+
+	//Execute Spawns
+	FinaleManager.aPanicSpawnPoints.push( aPanicOne );
+	FinaleManager.aPanicSpawnPoints.push( aPauseOne );
+	FinaleManager.aPanicSpawnPoints.push( aPanicTwo );
+	FinaleManager.aPanicSpawnPoints.push( aPauseTwo );
+
+	//Tank # 1
+	AddScriptedTankSpawn( Vector() ); // tank scripted spawn, put them here =) !
+    //Tank # 2
+    AddScriptedTankSpawn( Vector() );

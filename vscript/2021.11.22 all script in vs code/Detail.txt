@@ -1,0 +1,201 @@
+Detail
+
+ (hPlayer, Vector(9107.679, 528.169, -121.969), QAngle(8.989, -139.792, 0.000)); nick
+ (hPlayer, Vector(9013.024, 451.921, -121.969), QAngle(13.562, -140.101, 0.000)); coach
+ Vector(9120.128, 564.050, -121.969), QAngle(8.515, -137.667, 0.000)); rochelle
+ Vector(9151.666, 542.709, -121.969), QAngle(0.315, -146.056, 0.000)); ellis
+ 
+Console: Segment time: 49.433 
+===================== Summary ======================
+Map       : dkr_m1_motel
+Difficulty: Impossible
+Players   : 4
+================= Player Inventory =================
+Survivor  : Nick (so-so)
+Health    : 69
+slot1     : weapon_shotgun_chrome (8/72)
+slot2     : weapon_pistol (15)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+----------------------------------------------------
+Survivor  : Rochelle (2)
+Health    : 100
+slot1     : weapon_shotgun_chrome (8/72)
+slot2     : weapon_pistol (30)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+slot5     : weapon_adrenaline
+----------------------------------------------------
+Survivor  : Ellis (4)
+Health    : 100
+slot2     : weapon_pistol (15)
+slot3     : weapon_molotov
+slot4     : weapon_defibrillator
+slot5     : weapon_pain_pills
+----------------------------------------------------
+
+Console: Segment time: 49.433 
+===================== Summary ======================
+Map       : dkr_m1_motel
+Difficulty: Impossible
+Players   : 4
+================= Player Inventory =================
+Survivor  : Nick (Azure)
+Health    : 76
+slot1     : weapon_shotgun_chrome (8/72)
+slot2     : weapon_pistol (15)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+----------------------------------------------------
+Survivor  : Ellis (おかゆさん)
+Health    : 100
+slot2     : weapon_pistol (15)
+slot3     : weapon_molotov
+slot4     : weapon_defibrillator
+slot5     : weapon_pain_pills
+----------------------------------------------------
+Survivor  : Rochelle (ICHINA)
+Health    : 100
+slot1     : weapon_shotgun_chrome (8/72)
+slot2     : weapon_pistol (30)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+slot5     : weapon_adrenaline
+----------------------------------------------------
+timer 27
+
+
+"f" = "setang_exact -14.820648 90.112152 0.000000" rochelle
+
+"f" = "setang_exact -25.275496 -89.759262 0.000000"latest
+
+"f" = "setang_exact -48.534260 -89.994827 0.000000" nick
+
+
+"f" = "setang_exact -83.710373 43.722721 0.000000" rochelle first boost
+
+Console: Segment time: 25.600 
+===================== Summary ======================
+Map       : dkr_m2_carnival
+Difficulty: Impossible
+Players   : 4
+================= Player Inventory =================
+Survivor  : Coach (4)
+Health    : 44
+slot1     : weapon_shotgun_chrome (8/71)
+slot2     : weapon_pistol (15)
+Vector(1306.261, -4887.216, 30.730), QAngle(12.852, 90.311, 0.000));
+----------------------------------------------------
+Survivor  : Nick (2)
+Health    : 69
+slot1     : weapon_shotgun_chrome (8/72)
+slot2     : weapon_pistol (15)
+slot3     : weapon_molotov
+slot4     : weapon_first_aid_kit
+slot5     : weapon_pain_pills
+Vector(1256.031, -5306.331, 7.150), QAngle(-0.315, 82.111, 0.000));
+----------------------------------------------------
+Survivor  : Rochelle (3)
+Health    : 100
+slot1     : weapon_grenade_launcher (1/28)
+slot2     : weapon_pistol (15)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+slot5     : weapon_adrenaline
+Vector(1315.439, -5241.319, 40.031), QAngle(16.953, 89.444, 0.000));
+----------------------------------------------------
+
+Console: Segment time: 25.267 
+===================== Summary ======================
+Map       : dkr_m2_carnival
+Difficulty: Impossible
+Players   : 4
+================= Player Inventory =================
+Survivor  : Nick (おかゆさん)
+Health    : 69
+slot1     : weapon_shotgun_chrome (8/72)
+slot2     : weapon_pistol (15)
+slot3     : weapon_molotov
+slot4     : weapon_first_aid_kit
+slot5     : weapon_pain_pills
+----------------------------------------------------
+Survivor  : Coach (ICHINA)
+Health    : 44
+slot1     : weapon_shotgun_chrome (8/72)
+slot2     : weapon_pistol (15)
+----------------------------------------------------
+Survivor  : Rochelle (Azure)
+Health    : 100
+slot1     : weapon_grenade_launcher (1/28)
+slot2     : weapon_pistol (15)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+slot5     : weapon_adrenaline
+----------------------------------------------------
+[SM] ICHINA's playback "dkr2coach" is finished.
+Vector(1324.969, -4491.634, -54.435), QAngle(34.378, 118.307, 0.000)); ellis
+
+"setang_exact -7.810093 -92.605705 0.000000"
+"setang_exact -12.930223 -90.548859 0.000000" 2
+"setang_exact -29.233158 -87.533226 0.000000"  3 
+
+
+"f" = "setang_exact -37.139103 1.633075 0.000000" coach
+
+
+xclip double time => 42.000
+pick item time => 17.000
+
+Console: Segment time: 69.133 (01:09,133)
+===================== Summary ======================
+Map       : dkr_m3_tunneloflove
+Difficulty: Impossible
+Players   : 4
+================= Player Inventory =================
+Survivor  : Rochelle (so-so)
+Health    : 80
+slot1     : weapon_grenade_launcher (1/27)
+slot2     : weapon_pistol (15)
+slot3     : weapon_vomitjar
+(hPlayer, Vector(-2305.073, -11024.394, 70.031), QAngle(3.627, 57.877, 0.000));
+----------------------------------------------------
+Survivor  : Coach (3)
+Health    : 41
+slot1     : weapon_shotgun_spas (10/90)
+slot2     : weapon_pistol (15)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+slot5     : weapon_pain_pills
+Vector(-2327.031, -11049.438, 70.031), QAngle(-1.104, -89.478, 0.000));
+----------------------------------------------------
+
+Console: TP (hPlayer, Vector(-2221.198, -11011.128, 70.031), QAngle(14.193, 107.551, 0.000)); ellis
+
+Vector(-2449.464, -11083.717, 70.031), QAngle(9.146, 31.238, 0.000));nick
+
+Console: Segment time: 69.100 (01:09,100)
+userid "187" not found
+===================== Summary ======================
+Map       : dkr_m3_tunneloflove
+Difficulty: Easy
+Players   : 4
+================= Player Inventory =================
+Survivor  : Rochelle (ICHINA)
+Health    : 80
+slot1     : weapon_grenade_launcher (1/27)
+slot2     : weapon_pistol (15)
+slot3     : weapon_vomitjar
+----------------------------------------------------
+Survivor  : Coach (Azure)
+Health    : 42
+slot1     : weapon_shotgun_spas (10/90)
+slot2     : weapon_pistol (15)
+slot3     : weapon_vomitjar
+slot4     : weapon_first_aid_kit
+slot5     : weapon_pain_pills
+----------------------------------------------------
+
+xclip double angle setang_exact 7.963638 -107.259895 0.000000
+
+
+"f" = "setang_exact -7.825636 -91.056976 0.000000" +1430 vel

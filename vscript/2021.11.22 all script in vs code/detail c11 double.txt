@@ -1,0 +1,42 @@
+detail c11 double
+===================== Summary ======================
+Map       : c11m1_greenhouse
+Difficulty: Impossible
+Players   : 2
+================= Player Inventory =================
+Survivor  : Louis (Kyubi ツ)
+Health    : 100
+slot1     : weapon_smg (45/650)
+slot2     : weapon_pistol (15)
+slot3     : weapon_molotov
+slot4     : weapon_defibrillator
+slot5     : weapon_adrenaline
+Origin    : Vector(5070.894, 2620.860, 87.263)
+----------------------------------------------------
+
+ "setang_exact -74.959717 -156.879623 0.000000" bill
+ 
+
+"f" = "setang_exact -73.410759 -139.888596 0.000000"
+
+Console: Total time: 28.477 
+Console: Segment time: 13.800 
+===================== Summary ======================
+Map       : c11m2_offices
+Difficulty: Easy
+Players   : 1
+================= Player Inventory =================
+Survivor  : Louis (so-so)
+Health    : 100
+slot1     : weapon_pumpshotgun (8/71)
+slot2     : weapon_pistol (15)
+slot3     : weapon_molotov
+slot4     : weapon_defibrillator
+slot5     : weapon_adrenaline
+Origin    :Vector(8044.140, 6212.506, 16.031), QAngle(27.230, 4.423, 0.000));
+----------------------------------------------------
+
+Vector(-5449.532, -3131.068, 16.031), QAngle(32.879, -51.047, 0.000));
+
+
+"f" = "setang_exact -73.978989 92.942841 0.000000"
