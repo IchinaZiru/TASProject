@@ -12,7 +12,7 @@ This Kit is available for game version **TLS(The Last Stand Update)**.
 
 ## [Addons]
 - speedrunner_tools_v5.4.82.vpk
-- Speedrunner Tools (Latest Version): https://steamcommunity.com/sharedfiles/filedetails/?id=510955402
+- [Speedrunner Tools (Latest Version)](https://steamcommunity.com/sharedfiles/filedetails/?id=510955402)
 - tas_kit.vpk
 - finales_hook_master(2.1.5.5&earlier).vpk
 - finales_hook_master(tls).vpk
