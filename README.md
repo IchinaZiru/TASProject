@@ -3,8 +3,6 @@
 This Kit has more powerful and complete functions, better compatibility and convenience. It collects many resources to help making L4D2 TAS.
 This Kit is available for game version **TLS(The Last Stand Update)**.
 
-============================= DEMARCATION LINE =============================
-
 ## INSTALLATION:
 ```
 1 - Place folder "Left 4 Dead 2" right where installed your game.
