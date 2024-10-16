@@ -45,7 +45,7 @@ This Kit is available for game version **TLS(The Last Stand Update)**.
 - tankrock_rightside.smx
 - tankrock_overhead.smx
 
-***[Hacks]***
+### ***[Hacks]***
 - L4D2 Translucent Clip
 
 _Special Thanks & Powered By:_
@@ -55,3 +55,12 @@ _Special Thanks & Powered By:_
 - FSN-Sora (Sora Kit)
 - Addons Authors
 ...
+
+## Authors
+-GitHub  : [IchinaZiru](https://github.com/IchinaZiru)
+
+-Youtube : [My Youtube Channel](https://www.youtube.com/@ichina4656) , [My Team Youyube Channel](https://www.youtube.com/channel/UCQtquXJqoqzvjzhR7ySHAlg)
+
+-Discord : [ichi6083](discordapp.com/users/ichi6083)
+
+-Steam   : [ICHINA](https://steamcommunity.com/profiles/76561198854270791/)
