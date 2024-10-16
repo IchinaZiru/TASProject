@@ -42,10 +42,10 @@ This Kit is available for game version **TLS(The Last Stand Update)**.
 - sm_autostrafer.smx
 - str_english.smx
 - str_chinese_simplified.smx
+- skybox_changer.smx
 - tankrock_lowerthrow.smx
 - tankrock_rightside.smx
 - tankrock_overhead.smx
-- skybox_changer.smx
 
 ***[Hacks]***
 - L4D2 Translucent Clip
