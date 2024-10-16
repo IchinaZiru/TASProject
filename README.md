@@ -61,6 +61,6 @@ _Special Thanks & Powered By:_
 
 -Youtube : [My Youtube Channel](https://www.youtube.com/@ichina4656) , [My Team Youyube Channel](https://www.youtube.com/channel/UCQtquXJqoqzvjzhR7ySHAlg)
 
--Discord : [ichi6083](discordapp.com/users/ichi6083)
+-Discord : [ichi6083](discordapp.com/users/562494658018803712)
 
 -Steam   : [ICHINA](https://steamcommunity.com/profiles/76561198854270791/)
