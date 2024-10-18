@@ -3,7 +3,8 @@
 This Kit has more powerful and complete functions, better compatibility and convenience. It collects many resources to help making L4D2 TAS.
 This Kit is available for game version **TLS(The Last Stand Update)**.
 
-> Important >>> You need to install Left 4 Dead 2 before begin  TAS SpeedRun <<<
+> Note : 
+>  **__You need to install Left 4 Dead 2 before begin  TAS Speedrun__**
 
 ## INSTALLATION:
 ```
