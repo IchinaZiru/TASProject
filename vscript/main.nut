@@ -151,6 +151,13 @@ Survivors["nick"] <-
 
 	Actions = function(hPlayer)
 	{
+		/*
+		CreateTimer(0.675, function()
+	{ 
+		cvar("st_mr_force_file", "nick");
+		cvar("st_mr_play", Ent("!nick").GetEntityIndex());
+	});
+	*/
 		//SendToServerConsole("st_mr_record 1");
 		cvar("st_mr_force_file", "nick");
 		cvar("st_mr_play", Ent("!nick").GetEntityIndex());
@@ -255,7 +262,7 @@ function Callbacks::OnSpeedrunStart() // do some stuff when the countdown is ove
 	{ 
 		//Second ci dump
 		ci2();
-		cvar("host_timescale", 0.25);
+		//cvar("host_timescale", 0.25);
 	});
 
 	CreateTimer(10.0, function()
@@ -263,6 +270,14 @@ function Callbacks::OnSpeedrunStart() // do some stuff when the countdown is ove
 		//Third ci dump
 		ci3();
 	});
+
+	CreateTimer(12.00, function()
+		{ 
+			SayMsg("throw .356  jump .600");
+			//cvar("host_timescale", 0.05);
+		});
+
+	TakeNearestItem( Ent("!nick"), true, false, true, "weapon_vomitjar" );
 }
 
 function Callbacks::OnSpeedrunRestart() // do some stuff when the speedrun is about to restart
@@ -331,9 +346,10 @@ RemoveItemByName("chainsaw"); RemoveItemByName("grenade_launcher"); RemoveItemBy
 //ベット付近
 SpawnItem("grenade_launcher", Vector(-10081.000, 8680.000, 238.420), QAngle(0.000, 59.985, 0.000), 1); 
 //台上
-SpawnItem("vomitjar", Vector(-9960.000, 8952.000, 233.446), QAngle(0.000, 0.000, 0.000), 1);
-//出入口付近
+SpawnItem("vomitjar", Vector(-9960.000, 8952.000, 233.446), QAngle(0.000, 0.000, 0.000), 99);
+//出入口付近右側
 SpawnItem("vomitjar", Vector(-9824.000, 8768.000, 197.228), QAngle(0.000, 0.000, 0.000), 1);
+//出入口付近左側
 
 			//------------------ House2 ------------------//
 SpawnItem("molotov", Vector(-9184.000, 9262.000, 148.933), QAngle(0.000, 0.000, 0.000), 1) //for ellis
@@ -353,6 +369,16 @@ function ci1()
 {
 	SpawnCommonForCB(Vector(-12035.869, 9080.462, 164.146), QAngle(0, RandomInt(220.395, 220.395), 0), 0.2); //useRochelle
 	SpawnCommonForCB(Vector(-11685.096, 9128.606, 168.299), QAngle(0, RandomInt(220.395, 220.395), 0), 0.2);
+	SpawnCommon("common_male_tshirt_cargos", Vector(-11831.961, 9174.443, 160.674), QAngle(0.0, 174.376, 0.0));
+	SpawnCommon("common_female_tshirt_skirt", Vector(-11289.146, 9030.457, 168.127), QAngle(0.0, 162.767, 0.0));
+	SpawnCommon("common_male_tankTop_jeans", Vector(-11470.227, 8978.288, 164.593), QAngle(0.0, 136.981, 0.0));
+	SpawnCommon("common_female_tshirt_skirt", Vector(-11499.244, 9013.115, 164.790), QAngle(0.0, 138.664, 0.0));
+	SpawnCommon("common_female_tshirt_skirt", Vector(-11441.195, 9021.907, 166.714), QAngle(0.0, 149.685, 0.0));
+	SpawnCommon("common_female_tshirt_skirt", Vector(-11569.135, 9446.710, 160.031), QAngle(0.0, 256.233, 0.0));
+	SpawnCommon("common_female_tshirt_skirt", Vector(-11449.806, 9521.698, 161.047), QAngle(0.0, 242.983, 0.0));
+	SpawnCommon("common_male_tankTop_jeans", Vector(-11551.572, 9380.647, 160.031), QAngle(0.0, 248.914, 0.0));
+	SpawnCommon("common_female_tshirt_skirt", Vector(-11083.469, 9252.163, 164.780), QAngle(0.0, 157.088, 0.0));
+	SpawnCommon("common_male_tshirt_cargos", Vector(-11254.359, 9575.629, 161.140), QAngle(0.0, 245.212, 0.0));
 }
 
 function Zcb_EllisAndCoach()
@@ -360,15 +386,25 @@ function Zcb_EllisAndCoach()
 	SpawnCommonForCB(Vector(-11562.463, 9333.750, 165.984), QAngle(0, RandomInt(220.395, 220.395), 0), 0.2); //useEllis And Coach
 	SpawnCommonForCB(Vector(-11162.560, 9578.088, 159.841), QAngle(0, RandomInt(220.395, 220.395), 0), 0.2); //useEllis 
 	SpawnCommonForCB(Vector(-11250.271, 9351.630, 160.604), QAngle(0, RandomInt(220.395, 220.395), 0), 0.2);//useRochelle
+	SpawnCommonForCB(Vector(-10704.844, 9804.816, 160.091), QAngle(0, RandomInt(220.395, 220.395), 0), 0.2); //useEllis 
+	SpawnCommonForCB(Vector(-10002.466, 9804.488, 153.187), QAngle(0, RandomInt(220.395, 220.395), 0), 0.2); //useEllis 
+	//SpawnCommon("common_male_tshirt_cargos", Vector(-10348.055, 9401.655, 184.058), QAngle(0.0, 240.627, 0.0));
+	SpawnCommon("common_male_tankTop_jeans", Vector(-10819.546, 9978.423, 140.433), QAngle(0.0, 250.554, 0.0));
+	SpawnCommon("common_female_tshirt_skirt", Vector(-10789.117, 9366.031, 167.916), QAngle(0.0, 71.530, 0.0));
+	SpawnCommon("common_male_tshirt_cargos", Vector(-10474.786, 9117.956, 184.745), QAngle(0.0, 118.053, 0.0));
+
 }
 
 function ci2()	//Spawn IDLE Zombies
 {
-	SpawnCommonForCB(Vector(-9469.658, 8658.974, 120.536), QAngle(0.000, 97.078, 0.000));	//useNick
-	//SpawnCommonForCB(Vector(-8564.164, 8984.528, 92.047), QAngle(0, RandomInt(220.395, 220.395), 0), 0.2); //useEllis
+	//SpawnCommonForCB(Vector(-9469.658, 8658.974, 120.536), QAngle(0.000, 97.078, 0.000));	//useNick
+	SpawnCommonForCB(Vector(-9333.964, 8588.263, 109.585), QAngle(0.000, 97.078, 0.000));
+	SpawnCommonForCB(Vector(-9492.965, 8970.422, 121.064), QAngle(0, RandomInt(220.395, 220.395), 0), 0.2); //useEllis
+
+	
 }
 
 function ci3()
 {
-	SpawnCommonForCB(Vector(-7422.163, 6699.990, 32.031), QAngle(0.000, 59.301, 0.000)); //IDLE zombi
+	//SpawnCommonForCB(Vector(-7422.163, 6699.990, 32.031), QAngle(0.000, 59.301, 0.000)); //IDLE zombi
 }
