@@ -8,7 +8,7 @@ This Kit is available for game version **TLS(The Last Stand Update)**.
 
 ## INSTALLATION:
 ```
-1 - Place folder "Left 4 Dead 2" right where installed your game.
+1 - Place "STFP.bat" in folder "Left 4 Dead 2" right where installed your game.
 2 - Find inside the folder "Left 4 Dead 2" batch file "STFP.bat" and create shortcut to desktop for conveniece.
 3 - Run the game via created shortcut or double click "STFP.bat" directly from the game folder.
 ```
