@@ -59,7 +59,7 @@ _Special Thanks & Powered By:_
 - Addons Authors
 ...
 
-## Authors
+## Author
 -GitHub  : [IchinaZiru](https://github.com/IchinaZiru)
 
 -Youtube : [My Youtube Channel](https://www.youtube.com/@ichina4656) , [My Team Youyube Channel](https://www.youtube.com/channel/UCQtquXJqoqzvjzhR7ySHAlg)
