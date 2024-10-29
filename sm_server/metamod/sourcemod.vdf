@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"		"sourcemod"
+	"file"		"cfg/sm_server/sourcemod/bin/sourcemod_mm"
+}

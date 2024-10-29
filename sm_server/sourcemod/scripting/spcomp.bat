@@ -1,0 +1,1 @@
+spcomp.exe "D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\cfg\sm_server\sourcemod\scripting\sm_.sp" -D"D:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\cfg\sm_server\sourcemod\plugins"
